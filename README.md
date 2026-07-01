@@ -71,6 +71,7 @@
 ![Architecture](https://img.shields.io/badge/Software_Architecture-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=flat-square&logo=sonarsource&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps_Best_Practices-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
