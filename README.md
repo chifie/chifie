@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Levina
 
-### 💻 Full-Stack Developer | Flutter • React • NestJS
+### 💻 Full-Stack Developer
 
 *Passionate about building modern, scalable web and mobile applications.*  
 *I enjoy learning new technologies, solving real-world problems, and continuously improving my software engineering skills.*
