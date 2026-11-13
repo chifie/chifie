@@ -40,6 +40,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </td>
 </tr>
@@ -59,19 +60,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</td>
+<td valign="top" width="33%">
+
+### 🧠 Engineering Practices
+![System Design](https://img.shields.io/badge/System_Design-FF6C37?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Architecture](https://img.shields.io/badge/Software_Architecture-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge&logo=sonarsource&logoColor=white)
+
+</td>
 </tr>
 </table>
-
----
-
-## 🌱 Currently Learning
-
-![PostgreSQL](https://img.shields.io/badge/Advanced_PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-FF6C37?style=flat-square&logo=diagrams.net&logoColor=white)
-![Architecture](https://img.shields.io/badge/Software_Architecture-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=flat-square&logo=sonarsource&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps_Best_Practices-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
@@ -94,7 +93,10 @@
 
 ## 📫 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-levina--showcase-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://levina-showcase.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-levina--chifie-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levina-chifie/)
 [![GitHub](https://img.shields.io/badge/GitHub-chifie-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chifie)
+[![Instagram](https://img.shields.io/badge/Instagram-glee__kjch-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/glee_kjch/)
 [![Email](https://img.shields.io/badge/Email-levinachifie016@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levinachifie016@gmail.com)
 
 ---
